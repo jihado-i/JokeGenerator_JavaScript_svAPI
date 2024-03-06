@@ -4,12 +4,6 @@ This project is a joke generator website built using JavaScript and utilizes the
 ## Description
 This website allows users to generate random jokes with just a click of a button. With a simple and intuitive interface, users can easily enjoy a quick laugh or find inspiration for their next joke. The project fetches jokes from the JokeAPI, offering a wide range of joke categories including programming, general, and more.
 
-## Features
-- Generate random jokes with a single click.
-- Choose from various joke categories.
-- Responsive design for seamless experience across devices.
-- Easy-to-use interface for users of all levels.
-
 ## Technologies Used
 - JavaScript
 - HTML
