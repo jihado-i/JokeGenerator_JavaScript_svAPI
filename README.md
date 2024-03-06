@@ -23,6 +23,6 @@ Contributions to the project are welcome! If you have any ideas for improvements
 
 
 ## Live Preview
-[![Live Preview](https://img.shields.io/website?url=https%3A%2F%2Fjihado-i.github.io%2FJokeGenerator%2F)](https://jihado-i.github.io/JokeGenerator/)
+Click to visit! [![Live Preview](https://img.shields.io/website?url=https%3A%2F%2Fjihado-i.github.io%2FJokeGenerator%2F)](https://jihado-i.github.io/JokeGenerator/)
 
 
