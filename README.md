@@ -20,3 +20,14 @@ To use the joke generator, simply click the "Generate Joke" button to fetch a ra
 
 ## How to Contribute
 Contributions to the project are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
+
+
+## Live Preview
+[![Live Preview](https://img.shields.io/website?url=https%3A%2F%2Fexample.com)]
+
+
+
+
+
+
+
