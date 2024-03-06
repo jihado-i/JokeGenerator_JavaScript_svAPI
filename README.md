@@ -12,9 +12,6 @@ This website allows users to generate random jokes with just a click of a button
 ## Usage
 To use the joke generator, simply click the "Generate Joke" button to fetch a random joke from the JokeAPI. Users can also select specific categories to filter jokes based on their preferences.
 
-## How to Contribute
-Contributions to the project are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
-
 
 ## Live Preview
 Click to visit! [![Live Preview](https://img.shields.io/website?url=https%3A%2F%2Fjihado-i.github.io%2FJokeGenerator%2F)](https://jihado-i.github.io/JokeGenerator/)
