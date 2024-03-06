@@ -23,7 +23,7 @@ Contributions to the project are welcome! If you have any ideas for improvements
 
 
 ## Live Preview
-[![Live Preview](https://img.shields.io/website?url=https%3A%2F%2Fexample.com)]
+[![Live Preview](https://jihado-i.github.io/JokeGenerator/)]
 
 
 
