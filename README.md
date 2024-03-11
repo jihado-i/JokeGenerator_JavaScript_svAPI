@@ -14,6 +14,6 @@ To use the joke generator, simply click the "Generate Joke" button to fetch a ra
 
 
 ## Live Preview
-Click to visit! [![Live Preview](https://img.shields.io/website?url=https%3A%2F%2Fjihado-i.github.io%2FJokeGenerator%2F)](https://jihado-i.github.io/JokeGenerator/)
+Click to visit! [![Live Preview](https://img.shields.io/website?url=https%3A%2F%2Fjihado-i.github.io%2FJokeGenerator%2F)](https://jihado-i.github.io/JS_JokeGenerator/)
 
 
